@@ -1,14 +1,5 @@
 #!/bin/bash
 
-# Raise the maximum processes limit.
-#
-sudo tee -a >> /etc/security/limits.conf <<EOL
-ec2-user soft nproc 16384
-ec2-user hard nproc 16384
-EOL
-
-sudo cat /etc/security/limits.conf
-
 # Fix permissions on /dev/kvm and the ssh key:
 #
 cd firecracker-demo

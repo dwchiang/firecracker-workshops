@@ -2,6 +2,8 @@
 
 Source: https://github.com/firecracker-microvm/firecracker/blob/master/docs/getting-started.md
 
+The script in this workshop is tested with Ubuntu 18.04. Please feel free to modify for any Linux distribution.
+
 ## Requirements
 
 It may vary by time.

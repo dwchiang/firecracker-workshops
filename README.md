@@ -1,6 +1,6 @@
 # Firecracker Workshop Collections
 
-## 01: Getting Started
+## 01: Getting Started in 2 Minutes
 
 Say hello to Firecracker on Linux 4.14+ with KVM on x86_64 or aarch64 hardware.
 
