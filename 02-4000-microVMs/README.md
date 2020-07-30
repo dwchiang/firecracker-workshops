@@ -14,6 +14,7 @@ Source: https://github.com/firecracker-microvm/firecracker-demo
     - `make deploy`
 - We will have two terminal windows, but please just have the first one for now.
     - `export AWS_DEFAULT_PROFILE=your_aws_cli_profile_here` on both terminals.
+    - `rm -f ~/.ssh/known_hosts` for multiple demo purpose.
     - `./ec2-connect.sh {your_instance_id_here}` to the instance on both terminals.
 - Git clone this workshop scripts on the bare metal instance.
     - `sudo yum install -y git`
