@@ -9,6 +9,7 @@ Source: https://github.com/firecracker-microvm/firecracker-demo
 - Open 2 terminals.
     - `export AWS_DEFAULT_PROFILE=your_aws_cli_profile_here`
 - Git clone this workshop scripts on the bare metal instance.
+    - `git clone https://github.com/dwchiang/firecracker-workshops.git`
 
 ## 10: Init
 

@@ -9,6 +9,12 @@ It may vary by time.
 - Hardware: x86_64 or aarch64 (alpha stage).
 - OS: Any Linux 4.14+ with KVM enabled.
 
+### Enable Nested Virtualization in VirtualBox on Mac
+
+```
+VBoxManage modifyvm "your-VM-Name" --nested-hw-virt on
+```
+
 ## Preparations
 
 - Open 2 terminals.
