@@ -2,6 +2,8 @@
 
 Source: https://github.com/firecracker-microvm/firecracker-demo
 
+[![Create 4,000 microVMs on an EC2 bare metal instance in 90 Seconds.](http://img.youtube.com/vi/Eh0sTEN2azc/0.jpg)](http://www.youtube.com/watch?v=Eh0sTEN2azc "Create 4,000 microVMs on an EC2 bare metal instance in 90 Seconds.")
+
 ## Preparation
 
 - Using [aws-spot-one CDK script](https://github.com/dwchiang/aws-spot-one) to create one EC2 bare metal (i3.metal) spot instance with Amazon Linux 2 as host OS.

@@ -12,4 +12,4 @@ Say hello to Firecracker on Linux 4.14+ with KVM on x86_64 or aarch64 hardware.
 
 Create 4,000 microVMs on an EC2 bare metal instance in 90 Seconds.
 
-
+[![Create 4,000 microVMs on an EC2 bare metal instance in 90 Seconds.](http://img.youtube.com/vi/Eh0sTEN2azc/0.jpg)](http://www.youtube.com/watch?v=Eh0sTEN2azc "Create 4,000 microVMs on an EC2 bare metal instance in 90 Seconds.")
