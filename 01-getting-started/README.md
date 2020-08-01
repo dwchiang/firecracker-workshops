@@ -4,6 +4,8 @@ Source: https://github.com/firecracker-microvm/firecracker/blob/master/docs/gett
 
 The script in this workshop is tested with Ubuntu 18.04. Please feel free to modify for any Linux distribution.
 
+[![Getting Started with Firecracker in 90 Seconds](http://img.youtube.com/vi/kw4LlAmTjyg/0.jpg)](http://www.youtube.com/watch?v=kw4LlAmTjyg "Getting Started with Firecracker in 90 Seconds")
+
 ## Requirements
 
 It may vary by time.
