@@ -2,7 +2,7 @@
 
 Blog post: [Playing With Firecracker VMM at COSCUP 2020](https://www.ernestchiang.com/zh/posts/2020/2020-08-01-playing-with-firecracker/), by Ernest Chiang
 
-## 01: Getting Started in 90 Seconds
+## 01: Getting Started with Firecracker in 2 Minutes
 
 Say hello to Firecracker on Linux 4.14+ with KVM on x86_64 or aarch64 hardware.
 
